@@ -6,6 +6,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader> 
         <fileDesc>
+        
             <titleStmt>
                 <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
                 <author>Alonso Carrió de la Vandera</author>
